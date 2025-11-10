@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "JTST / Mr."
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jintian Wang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "JTST Jintian"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Exeter College, Oxford, United Kingdom"
+  employer         : "University of Oxford"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jintian.wang@exeter.ox.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -61,7 +61,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/jtst.jintian/" # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -77,7 +77,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "https://www.zhihu.com/people/jtst-on-bilibili"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
